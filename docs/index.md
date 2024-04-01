@@ -4,7 +4,9 @@ Welcome to the Maka-Sitomniya repository, part of the Environmental Data Science
 
 ## Our Project
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+The world is faced with growing threats from multiple, interacting environmental challenges ranging from chemical pollution to increasing demands and diminishing supplies of freshwater to loss of biodiversity to the climate crisis. Indigenous communities are particularly vulnerable to these threats as a result of a long history of injustice.  At the same time, their holistic worldview, long tenure on the lands and waters and time-tested stewardship practices provide the local knowledge necessary to understand and respond to environmental challenges.  What is lacking are the resources and technical expertise to combine Indigenous Knowledges with the latest advances in data collection and analysis.  
+
+Climate change vulnerability assessment, mitigation and adaptation all depend on timely and reliable data. Recent advances in remote sensing technology and environmental data science (EDS) provide powerful tools for planners and decision-makers, but only if the data and analyses are accessible to them.  Our Working Group is not focused on specific technological advances, but on enabling Tribes to access and use EDS for their own purposes.  Our Indigenous-led group, consisting predominantly of Indigenous scientists and Tribal College faculty, proposes to facilitate the adoption of EDS by creating a DataCube and workflow that are customizable for the needs of specific Tribes and useful for training to build Tribal capacity.  Advancing EDS is not just about pushing the edges of the science, it must also be about expanding accessibility and use of the science to benefit society, and extending its reach into communities that would otherwise be excluded.
 
 ## Project Proposal
 
@@ -14,10 +16,13 @@ Welcome to the Maka-Sitomniya repository, part of the Environmental Data Science
 
 [List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
 
-- **Member 1**: Brief description or role within the group.
-- **Member 2**: Brief description or role within the group.
-- ...
-
+- **Member 1**: PI: Phil Two Eagle <phil.twoeagle@rst-nsn.gov>
+- **Member 2**: Co-PI: Joni Tobacco <jktobacco@gmail.com>
+- **Member 3**: Co-PI/Co-Tech Lead: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
+- **Member 4**: Co-Tech Lead: Lilly Jones <lijo8146@colorado.edu>
+- **Member 5**: Justina White Eyes <>
+- **Member 6**: Bob Newman <>
+  
 ## Code Repository
 
 This section of the repository will include all the code developed for the project. You can structure it as follows:
