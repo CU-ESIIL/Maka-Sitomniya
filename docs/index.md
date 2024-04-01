@@ -1,6 +1,6 @@
-# [Maka-Sitomniya]
+# Maka-Sitomniya
 
-Welcome to the [Maka-Sitomniya] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our working group, hosting our project description, proposals, member bios, codebase, and more.
+Welcome to the Maka-Sitomniya repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our working group, hosting our project description, proposals, member bios, codebase, and more.
 
 ## Our Project
 
