@@ -21,7 +21,17 @@ Climate change vulnerability assessment, mitigation and adaptation all depend on
 - **Member 3**: Co-PI/Co-Tech Lead: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
 - **Member 4**: Co-Tech Lead: Lilly Jones <lijo8146@colorado.edu>
 - **Member 5**: Justina White Eyes <Justina@nativebio.org>
-- **Member 6**: Bob Newman <>
+- **Member 6**: Robert Newman <robert.newman@und.edu>
+- **Member 7**: Al Kusilikis <akuslikis@aihec.org>
+- **Member 8**: Jeff Weber <jweber@ucar.edu> 
+- **Member 9**: Joseph ? <joseph@nativebio.org>
+- **Member 10**: Camille Griffith <cgriffith@olc.edu>
+- **Member 11**: Brian Yandell <brian.yandell@wisc.edu>
+- **Member 12**: Patrisse Vasek <pvasek24220@olc.edu>
+- **Member 13**: Robert Michell Rabin <rabin@ssec.wisc.edu>
+- **Member 14**: James Sanovia <james.sanovia@colorado.edu>
+- **Member 15**: James Rattling Leaf <james.rattlingleaf@colorado.edu>
+
   
 ## Code Repository
 
