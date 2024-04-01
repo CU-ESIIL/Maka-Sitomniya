@@ -1,11 +1,11 @@
-site_name: 'ESIIL Working Group OASIS'
-site_description: 'Central resource for ESIIL working groups'
-site_author: Ty Tuff
+site_name: 'Maka Sitomniya: Preserving Mother Earth by Asserting Lakota Sovereignty in Earth Data Science '
+site_description: 'Central resource for Group 16 working group'
+site_author: Lilly Jones
 site_url: https://cu-esiil.github.io/Working_group_home
 
 # Repository
-repo_name: Working-group-home
-repo_url: https://github.com/CU-ESIIL/Working_group_oasis
+repo_name: Group 16
+repo_url: https://github.com/CU-ESIIL/Group_16
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
