@@ -39,3 +39,17 @@ Summary of the data processing phase and its outcomes. Reflect on the methods us
 ## References
 
 Citations of tools, data sources, and other references used in the data processing phase.
+
+Carroll, SR, et al. 2019. Indigenous Data Governance: Strategies from United States Native Nations. Data Science Journal, 18: 31, pp. 1–15. DOI: https://doi.org/10.5334/dsj-2019-031
+
+Garnett, S.T., Burgess, N.D., Fa, J.E. et al. 2018. A spatial overview of the global importance of Indigenous lands for conservation. Nat Sustain 1, 369–374. https://doi.org/10.1038/s41893-018-0100-6
+
+Jennings, L., Anderson, T., Martinez, A. et al. 2023. Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research. Nat Ecol Evol 7, 1547–1551. https://doi.org/10.1038/s41559-023-02161-2
+
+Johnson, J. T., Brewer, J. P., Nelson, M. K., Palmer, M. H., & Louis, R. P. 2023. Indigenous research sovereignties: Sparking the deeper conversations we need. Environment and Planning F, 2(1-2), 3-10. https://doi.org/10.1177/26349825231163149
+
+Orlove, B., Sherpa, P., Dawson, N. et al. 2023. Placing diverse knowledge systems at the core of transformative climate research. Ambio 52, 1431–1447. https://doi.org/10.1007/s13280-023-01857-w
+
+Ramos, S.C. 2018., Considerations for culturally sensitive traditional ecological knowledge research in wildlife conservation. Wildl. Soc. Bull., 42: 358-365. https://doi.org/10.1002/wsb.881
+
+Ramos, S. C. 2022. Understanding Yurok traditional ecological knowledge and wildlife management. Journal of Wildlife Management 86:e22140. https://doi.org/10.1002/jwmg.22140
