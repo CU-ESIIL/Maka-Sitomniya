@@ -22,7 +22,7 @@ Climate change vulnerability assessment, mitigation and adaptation all depend on
 - **Member 4**: Co-Tech Lead: Lilly Jones <lijo8146@colorado.edu>
 - **Member 5**: Justina White Eyes <Justina@nativebio.org>
 - **Member 6**: Robert Newman <robert.newman@und.edu>
-- **Member 7**: Al Kusilikis <akuslikis@aihec.org>
+- **Member 7**: Al Kusilikis <akuslikis@gmail.com>
 - **Member 8**: Jeff Weber <jweber@ucar.edu> 
 - **Member 9**: Joseph ? <joseph@nativebio.org>
 - **Member 10**: Camille Griffith <cgriffith@olc.edu>
