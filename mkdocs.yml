@@ -1,0 +1,90 @@
+site_name: 'ESIIL Working Group OASIS'
+site_description: 'Central resource for ESIIL working groups'
+site_author: Ty Tuff
+site_url: https://cu-esiil.github.io/Working_group_home
+
+# Repository
+repo_name: Working-group-home
+repo_url: https://github.com/CU-ESIIL/Working_group_oasis
+edit_uri: edit/main/docs/
+# Copyright
+copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
+
+# Page tree
+nav:
+  - Home: index.md
+  - Resources:
+       - Code of Conduct: resources/code-of-conduct.md
+       - Participant agreement: resources/participant_agreement.md
+       - ESIIL training: resources/esiil_training.md
+       - Markdown: resources/markdown_basics.md
+       - Cyverse: resources/cyverse_basics.md
+       - Art Gallery: resources/art gallery.md
+  - Meeting Notes:
+       - Pre-meetings: resources/pre_meeting_notes.md
+       - First meeting: resources/first_meeting_notes.md
+       - Second meeting: resources/second_meeting_notes.md
+       - Third meeting: resources/third_meeting_notes.md
+       - Post-meetings: resources/post_meeting_notes.md
+  - Code documentation:
+       - Data processing: resources/data_processing.md
+       - Data analysis: resources/data_analysis.md
+       - Visualizations: resources/visualizations.md 
+  - Manuscript drafts:
+       - Manuscript: resources/manuscript.md
+  - References:
+       - Notes from readings: resources/notes_from_readings.md
+       - Citations: resources/citations.md
+
+# Configuration
+theme:
+  highlightjs: true
+  name: material
+  font:
+    text: 'Open Sans'
+    code: 'Roboto Mono'
+  logo: 'assets/esiil_content/ESIIL_logo.png'
+  favicon: 'assets/esiil_content/favicon.ico'
+  # setting features for the navigation tab
+  features:
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+    - toc.follow
+    - content.code.copy
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: white)"
+      primary: 'white'
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/github
+    # link: https://github.com/cu-esiil/
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+    - search
+    - mkdocstrings
+    - git-revision-date
+    - mkdocs-jupyter:
+          include_source: True
+          ignore_h1_titles: True
