@@ -20,7 +20,7 @@ Climate change vulnerability assessment, mitigation and adaptation all depend on
 - **Member 2**: Co-PI: Joni Tobacco <jktobacco@gmail.com>
 - **Member 3**: Co-PI/Co-Tech Lead: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
 - **Member 4**: Co-Tech Lead: Lilly Jones <lijo8146@colorado.edu>
-- **Member 5**: Justina White Eyes <>
+- **Member 5**: Justina White Eyes <Justina@nativebio.org>
 - **Member 6**: Bob Newman <>
   
 ## Code Repository
