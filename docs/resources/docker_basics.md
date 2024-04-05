@@ -262,7 +262,7 @@ Go back to the Apps dashboard and click create
 
 Just like for the Tool, give a descriptive name and description
 
-![AppName](../assets/docker_basics/dockerhub.png)
+![AppName](../assets/docker_basics/app_name.png)
 
 For "Tool used" click select and then search for the name of the tool that was just added and then click on its row and then select at the bottom.
 
