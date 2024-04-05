@@ -20,6 +20,7 @@ nav:
        - Markdown: resources/markdown_basics.md
        - Cyverse: resources/cyverse_basics.md
        - Art Gallery: resources/art gallery.md
+       - Docker: resources/docker_basics.md
   - Meeting Notes:
        - Pre-meetings: resources/pre_meeting_notes.md
        - First meeting: resources/first_meeting_notes.md
