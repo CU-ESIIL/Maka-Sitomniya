@@ -193,7 +193,9 @@ How are we doing?
 
 Despite our best intentions, in some cases we may not be living up to our ideals of a positive,
 supportive, inclusive, respectful and collaborative community. If you feel we could do better, we welcome your feedback. Comments, suggestions and praise are also very welcome!
+
 Acknowledgment
 By participating in this event, you agree to abide by this code of conduct and understand the consequences of violating it. We believe that a respectful and inclusive environment benefits all participants and leads to more creative and successful outcomes.
 Thank you for your cooperation in making the this event a welcoming event for all. Have fun!
 
+[https://doi.org/10.25810/2rdy-c188](https://doi.org/10.25810/2rdy-c188)
