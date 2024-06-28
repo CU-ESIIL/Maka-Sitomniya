@@ -16,7 +16,9 @@ If you were not able to attend ESIIL’s online training sessions, please view t
 - Overview of the code of conduct and participant agreement.
   
 [CLICK HERE TO VIEW RECORDING](https://youtu.be/Ea21i3do9sA)
+
 [Science of Team Science Slides](https://o365coloradoedu.sharepoint.com/:b:/s/CIRES-EarthLab/ESBIjItMBfFIsl_ZELF1t5kBjEpK09UK8fiONZ-fnKuxuw?e=MDZdKg)
+
 [Community Skills Slides](https://o365coloradoedu.sharepoint.com/:b:/s/CIRES-EarthLab/ESBIjItMBfFIsl_ZELF1t5kBjEpK09UK8fiONZ-fnKuxuw?e=lcfRbJ)
 
 
