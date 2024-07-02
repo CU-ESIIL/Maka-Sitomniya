@@ -15,7 +15,6 @@ nav:
   - Home: index.md
   - Resources:
        - Code of Conduct: resources/code-of-conduct.md
-       - Participant agreement: resources/participant_agreement.md
        - ESIIL training: resources/esiil_training.md
        - Markdown: resources/markdown_basics.md
        - Cyverse: resources/cyverse_basics.md
