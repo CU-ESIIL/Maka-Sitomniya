@@ -18,7 +18,7 @@ nav:
        - ESIIL training: resources/esiil_training.md
        - Markdown: resources/markdown_basics.md
        - Cyverse: resources/cyverse_basics.md
-       - Art Gallery: resources/art gallery.md
+       - Meeting Guide: resources/meeting guide.md
        - Docker: resources/docker_basics.md
   - Meeting Notes:
        - Pre-meetings: resources/pre_meeting_notes.md
