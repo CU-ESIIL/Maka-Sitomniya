@@ -1,10 +1,8 @@
 # Code of Conduct and Respectful Inclusive Collaboration Guidelines
 
-CIRES Earth Lab and Environmental Data Science Innovation & Inclusion Lab (ESIIL) are committed to building, maintaining, and fostering an inclusive, kind, collaborative, and diverse transdisciplinary environmental data science community, whose members feel welcome, supported, and safe to contribute ideas and knowledge.
+The Environmental Data Science Innovation & Inclusion Lab (ESIIL) is committed to building, maintaining, and fostering an inclusive, kind, collaborative and diverse transdisciplinary environmental data science community, whose members feel welcome, supported, and safe to contribute ideas and knowledge. 
 
-The Forest Carbon Codefest will follow all aspects of the ESIIL Code of Conduct (below).
-
-**All community members are responsible for creating this culture, embodying our values, welcoming diverse perspectives and ways of knowing, creating safe inclusive spaces, and conducting ethical science as guided by FAIR (Findable, Accessible, Interoperable, Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) principles for scientific and Indigenous data management, governance, and stewardship.**
+All ESIIL community members are responsible for creating this culture, embodying our values, welcoming diverse perspectives and ways of knowing, creating safe inclusive spaces, and conducting ethical science as guided by FAIR (Findable, Accessible, Interoperable, Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) principles for scientific and Indigenous data management, governance and stewardship. 
 
 ### Our values
 
