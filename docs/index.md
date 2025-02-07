@@ -17,20 +17,19 @@ Climate change vulnerability assessment, mitigation and adaptation all depend on
 [List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
 
 - **Member 1**: PI: Phil Two Eagle <phil.twoeagle@rst-nsn.gov>
-- **Member 2**: Co-PI: Joni Tobacco <jktobacco@gmail.com>
-- **Member 3**: Co-PI/Co-Tech Lead: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
-- **Member 4**: Co-Tech Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
+- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
+- **Member 3**: Robin O'Malley
+- **Member 4**: Technical Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
 - **Member 5**: Justina White Eyes <Justina@nativebio.org>
 - **Member 6**: Robert Newman <robert.newman@und.edu>
 - **Member 7**: Al Kusilikis <akuslikis@gmail.com>
 - **Member 8**: Jeff Weber <jweber@ucar.edu> 
-- **Member 9**: Joseph ? <joseph@nativebio.org>
+- **Member 9**: Joseph Yracheta <joseph@nativebio.org>
 - **Member 10**: Camille Griffith <cgriffith@olc.edu>
 - **Member 11**: Brian Yandell <brian.yandell@wisc.edu>
-- **Member 12**: Patrisse Vasek <pvasek24220@olc.edu>
+- **Member 12**: James Rattling Leaf <james.rattlingleaf@colorado.edu>
 - **Member 13**: Robert Michell Rabin <rabin@ssec.wisc.edu>
 - **Member 14**: James Sanovia <james.sanovia@colorado.edu>
-- **Member 15**: James Rattling Leaf <james.rattlingleaf@colorado.edu>
 
   
 ## Code Repository
