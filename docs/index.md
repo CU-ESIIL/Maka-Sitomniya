@@ -18,8 +18,8 @@ Climate change vulnerability assessment, mitigation and adaptation all depend on
 
 - **Member 1**: PI: Phil Two Eagle <phil.twoeagle@rst-nsn.gov>
 - **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
-- **Member 3**: Robin O'Malley
-- **Member 4**: Technical Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
+- **Member 3**: Technical Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
+- **Member 4**: Robin O'Malley <omalley.robin@gmail.com>
 - **Member 5**: Justina White Eyes <Justina@nativebio.org>
 - **Member 6**: Robert Newman <robert.newman@und.edu>
 - **Member 7**: Al Kusilikis <akuslikis@gmail.com>
