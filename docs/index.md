@@ -29,7 +29,8 @@ Climate change vulnerability assessment, mitigation and adaptation all depend on
 - **Member 11**: Brian Yandell 
 - **Member 12**: James Rattling Leaf 
 - **Member 13**: Robert Michell Rabin 
-- **Member 14**: James Sanovia 
+- **Member 14**: James Sanovia
+- **Member 15**: Patrick Freeland
 
   
 ## Code Repository
