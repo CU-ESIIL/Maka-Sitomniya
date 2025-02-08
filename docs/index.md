@@ -16,20 +16,20 @@ Climate change vulnerability assessment, mitigation and adaptation all depend on
 
 [List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
 
-- **Member 1**: PI: Phil Two Eagle <phil.twoeagle@rst-nsn.gov>
-- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
-- **Member 3**: Technical Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
-- **Member 4**: Robin O'Malley <omalley.robin@gmail.com>
-- **Member 5**: Justina White Eyes <Justina@nativebio.org>
-- **Member 6**: Robert Newman <robert.newman@und.edu>
-- **Member 7**: Al Kusilikis <akuslikis@gmail.com>
-- **Member 8**: Jeff Weber <jweber@ucar.edu> 
-- **Member 9**: Joseph Yracheta <joseph@nativebio.org>
-- **Member 10**: Camille Griffith <cgriffith@olc.edu>
-- **Member 11**: Brian Yandell <brian.yandell@wisc.edu>
-- **Member 12**: James Rattling Leaf <james.rattlingleaf@colorado.edu>
-- **Member 13**: Robert Michell Rabin <rabin@ssec.wisc.edu>
-- **Member 14**: James Sanovia <james.sanovia@colorado.edu>
+- **Member 1**: PI: Phil Two Eagle 
+- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder 
+- **Member 3**: Technical Lead: Lilly Jones-Sanovia 
+- **Member 4**: Robin O'Malley 
+- **Member 5**: Justina White Eyes 
+- **Member 6**: Robert Newman 
+- **Member 7**: Al Kusilikis 
+- **Member 8**: Jeff Weber 
+- **Member 9**: Joseph Yracheta 
+- **Member 10**: Camille Griffith 
+- **Member 11**: Brian Yandell 
+- **Member 12**: James Rattling Leaf 
+- **Member 13**: Robert Michell Rabin 
+- **Member 14**: James Sanovia 
 
   
 ## Code Repository
