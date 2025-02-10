@@ -52,6 +52,7 @@ We welcome contributions from all group members. To maintain the quality and int
 - Make sure all commits have a clear and concise message.
 - Document any major changes or decisions in the meeting notes.
 - Review and merge changes through pull requests to ensure oversight.
+- More details can be found in the **contributing** file. 
 
 ## Getting Help
 
