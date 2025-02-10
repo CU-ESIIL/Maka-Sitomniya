@@ -98,9 +98,11 @@ The file will contain markers like this:
 If you need help, feel free to ask in GitHub Discussions or in our project Slack.
 
 💡 Need Help?
-If you’re new to GitHub:
-Check out GitHub Docs.
-Ask questions in GitHub Discussions or in our project Slack.
+If you’re new to GitHub or have a question about how to do something:
+   - Check out GitHub Docs.
+   - Ask questions in GitHub Discussions
+   - Ask questions in our project Slack
+   - Contact a member of the Tech Team 
 
 
 
