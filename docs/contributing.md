@@ -88,7 +88,8 @@ The file will contain markers like this:
    - Someone else's changes
    - >>>>>>> feature-branch
 3. Manually Resolve the Conflict:
-   - Decide which version to keep, or merge them manually. Then remove the conflict markers (<<<<<<<, =======, >>>>>>>).
+   - Decide which version to keep, or merge them manually.
+   - Then remove the conflict markers (<<<<, ====, >>>>).
 4. Mark as resolved:
    - git add filename.txt
    - git commit -m "Resolved merge conflict in filename.txt"
