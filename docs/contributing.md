@@ -77,18 +77,18 @@ GitHub Desktop makes it easier to contribute without using the command line.
 🔄 Handling Merge Conflicts
 Merge conflicts happen when two people edit the same part of a file. Here’s how to fix them:
 1. Identify the Conflict
-- If you see an error like this when pulling changes:
-- CONFLICT (content): Merge conflict in file.txt
-- It means Git doesn’t know which version to keep.
+   - If you see an error like this when pulling changes:
+   - CONFLICT (content): Merge conflict in file.txt
+   - It means Git doesn’t know which version to keep.
 2. Open the Conflicted File
 The file will contain markers like this:
-- <<<<<<< HEAD
-- Your changes here
-- =======
-- Someone else's changes
-- >>>>>>> feature-branch
-3. Manually Resolve the Conflict
-Decide which version to keep, or merge them manually. Then remove the conflict markers (<<<<<<<, =======, >>>>>>>).
+   - <<<<<<< HEAD
+   - Your changes here
+   - =======
+   - Someone else's changes
+   - >>>>>>> feature-branch
+3. Manually Resolve the Conflict:
+   - Decide which version to keep, or merge them manually. Then remove the conflict markers (<<<<<<<, =======, >>>>>>>).
 4. Mark as resolved:
    - git add filename.txt
    - git commit -m "Resolved merge conflict in filename.txt"
