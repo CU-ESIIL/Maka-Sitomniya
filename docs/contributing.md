@@ -19,7 +19,7 @@ If you find a bug or have a suggestion, submit an issue:
    - **Expected vs. actual behavior**
    - **Screenshots (if applicable)**
 
-Be respectful and check existing issues before opening a new one.
+Please be respectful, follow principles of Wolakota, and check existing issues before opening a new one.
 
 ## 🔧 Making Code Changes
 ### **1. Fork & Clone the Repository**
@@ -73,4 +73,44 @@ GitHub Desktop makes it easier to contribute without using the command line.
 4. Push Changes
    - Click "Push origin" to upload your changes.
    - On GitHub, open a Pull Request to submit your changes.
+
+🔄 Handling Merge Conflicts
+Merge conflicts happen when two people edit the same part of a file. Here’s how to fix them:
+1. Identify the Conflict
+If you see an error like this when pulling changes:
+CONFLICT (content): Merge conflict in file.txt
+It means Git doesn’t know which version to keep.
+2. Open the Conflicted File
+The file will contain markers like this:
+<<<<<<< HEAD
+Your changes here
+=======
+Someone else's changes
+>>>>>>> feature-branch
+3. Manually Resolve the Conflict
+Decide which version to keep, or merge them manually. Then remove the conflict markers (<<<<<<<, =======, >>>>>>>).
+4. Mark as resolved:
+   - git add filename.txt
+   - git commit -m "Resolved merge conflict in filename.txt"
+5. Then push your changes again:
+   - git push origin your-branch
+If you need help, feel free to ask in GitHub Discussions or in our project Slack.
+
+💡 Need Help?
+If you’re new to GitHub:
+Check out GitHub Docs.
+Ask questions in GitHub Discussions or in our project Slack.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
