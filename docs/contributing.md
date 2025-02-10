@@ -25,10 +25,10 @@ Please be respectful, follow principles of Wolakota, and check existing issues b
 ### **1. Fork & Clone the Repository**
 1. Click the **"Fork"** button at the top-right of the repository.
 2. Clone your fork to your local machine:
-   - git clone https://github.com/YOUR-USERNAME/PROJECT-NAME.git
+   - git clone https://github.com/YOUR-USERNAME/Maka-Sitomniya.git
    - cd PROJECT-NAME
 3. Set the original repo as the upstream:
-   - git remote add upstream https://github.com/ORIGINAL-REPO/PROJECT-NAME.git
+   - git remote add upstream https://github.com/CU-ESIIL/Maka-Sitomniya.git
 4. Always create a new branch for changes:
    - git checkout -b feature-branch
 5. Make Changes & Commit
