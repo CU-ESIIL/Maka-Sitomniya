@@ -1,6 +1,6 @@
 # Contributing to Maka Sitomniya 
 
-Welcome to Maka Sitomniya! 🎉 We’re excited to have you contribute. Whether you're a coder, writer, designer, or researcher, your help is appreciated.
+Welcome to Maka Sitomniya! 🎉 We’re excited to have you contribute. Whether you're a coder, writer, designer, group member or researcher, your help is appreciated.
 
 ## 📌 How to Contribute
 You can contribute in several ways:
@@ -35,15 +35,15 @@ Please be respectful, follow principles of Wolakota, and check existing issues b
    - Keep commits small and meaningful.
    - Follow the Pep 8 code style Python and tidyverse for R.
    - Write clear commit messages:
-   - git commit -m "Add feature: description"
+         - git commit -m "Add feature: description"
 6. Push & Create a Pull Request (PR)
    - Push your branch to GitHub:
-   - git push origin feature-branch
+         - git push origin feature-branch
    - Open a Pull Request:
-   - Go to your fork on GitHub.
-   - Click "Compare & pull request."
-   - Add a title and description explaining your changes.
-   - Request a review from team members.
+       - Go to your fork on GitHub.
+       - Click "Compare & pull request."
+       - Add a title and description explaining your changes.
+       - Request a review from team members.
 7. Reviewing Pull Requests
    - Be kind and constructive in feedback.
    - Suggest improvements, but respect different perspectives.
@@ -63,11 +63,11 @@ GitHub Desktop makes it easier to contribute without using the command line.
 2. Clone the Repository
    - Open GitHub Desktop.
    - Click "File" → "Clone Repository."
-   - Select "GitHub.com" and choose the repository.
+   - Select "GitHub.com" and choose the repository Maka Sitomniya.
    - Click "Clone."
 3. Make Changes
    - Open the repository folder on your computer.
-   - Edit files as needed (e.g., in Word, Notepad, or VS Code).
+   - Edit files as needed (e.g., in Notepad or VS Code or your preferred editor).
    - Return to GitHub Desktop, where changes will be listed.
    - Write a summary of your changes and click "Commit to main/branch."
 4. Push Changes
@@ -77,16 +77,16 @@ GitHub Desktop makes it easier to contribute without using the command line.
 🔄 Handling Merge Conflicts
 Merge conflicts happen when two people edit the same part of a file. Here’s how to fix them:
 1. Identify the Conflict
-If you see an error like this when pulling changes:
-CONFLICT (content): Merge conflict in file.txt
-It means Git doesn’t know which version to keep.
+- If you see an error like this when pulling changes:
+- CONFLICT (content): Merge conflict in file.txt
+- It means Git doesn’t know which version to keep.
 2. Open the Conflicted File
 The file will contain markers like this:
-<<<<<<< HEAD
-Your changes here
-=======
-Someone else's changes
->>>>>>> feature-branch
+- <<<<<<< HEAD
+- Your changes here
+- =======
+- Someone else's changes
+- >>>>>>> feature-branch
 3. Manually Resolve the Conflict
 Decide which version to keep, or merge them manually. Then remove the conflict markers (<<<<<<<, =======, >>>>>>>).
 4. Mark as resolved:
