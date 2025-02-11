@@ -13,9 +13,21 @@ Welcome to the **Maka Sitomniya** repository, an integral part of the Environmen
 [Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Group Members
-- Member 1: Brief description or role within the group.
-- Member 2: Brief description or role within the group.
-- ...
+- Member 1: PI: Phil Two Eagle
+- Member 2: Co-PI: Elisha Wakinyan Zi Yellow Thunder
+- Member 3: Technical Lead: Lilly Jones-Sanovia
+- Member 4: Robin O'Malley
+- Member 5: Justina White Eyes
+- Member 6: Robert Newman
+- Member 7: Al Kusilikis
+- Member 8: Jeff Weber
+- Member 9: Joseph Yracheta
+- Member 10: Camille Griffith
+- Member 11: Brian Yandell
+- Member 12: James Rattling Leaf
+- Member 13: Robert Michell Rabin
+- Member 14: James Sanovia
+- Member 15: Patrick Freeland
 - [Link to more detailed bios or profiles if available.]
 
 ## Repository Structure
