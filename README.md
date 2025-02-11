@@ -6,7 +6,7 @@ Welcome to the **Maka Sitomniya** repository, an integral part of the Environmen
 [Provide a brief overview of your project here. Describe what you aim to achieve, the importance of your project, and its expected impact.]
 
 ## Documentation
-- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+- Access detailed documentation on our [GitHub Pages site](https://cu-esiil.github.io/Maka-Sitomniya/).
 - Find comprehensive guides, tutorials, and additional resources.
 
 ## Project Proposal
