@@ -56,7 +56,7 @@ If you're improving documentation:
    - Keep it simple and beginner-friendly.
 
 🖥️ Using GitHub Desktop (For Non-Technical Users)
-GitHub Desktop makes it easier to contribute without using the command line.
+>GitHub Desktop makes it easier to contribute without using the command line.
 1. Install GitHub Desktop
    - Download it from GitHub Desktop.
    - Install and log in with your GitHub account.
