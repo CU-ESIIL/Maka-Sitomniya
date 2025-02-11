@@ -38,7 +38,6 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 13: Robert Michell Rabin
 - Member 14: James Sanovia
 - Member 15: Patrick Freeland
-- [Link to more detailed bios or profiles if available.]
 
 ## Repository Structure
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
@@ -54,7 +53,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
   - Ensure commits have clear and concise messages.
   - Document major changes in the meeting notes.
   - Review and merge changes through pull requests for oversight.
-  - Practice Wolakota - ensure your contributions are respectful and do not violate Tribal protocols.
+  - Practice Wolakota - ensure your contributions are respectful and follow Tribal protocols.
   - Detailed information about contributing to this project can be found in the documents folder (contributing.md).
 
 ## Getting Help
@@ -63,11 +62,9 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 ## Customize Your Repository
 - **Edit This Readme**: Update with information specific to your project.
 - **Update Group Member Bios**: Add detailed information about each group member's expertise and role.
-- **Organize Your Code**: Use logical structure and clear naming conventions.
 - **Document Your Data**: Include a data directory with README files for datasets.
 - **Outline Your Methods**: Create a METHODS.md file for methodologies and tools.
 - **Set Up Project Management**: Use 'Issues' and 'Projects' for task tracking.
-- **Review and Merge Workflow**: Document your process for reviewing and merging changes.
-- **Establish Communication Channels**: Set up channels like Slack or Discord for discussions.
+
 
 
