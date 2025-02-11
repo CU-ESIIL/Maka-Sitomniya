@@ -54,6 +54,8 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
   - Ensure commits have clear and concise messages.
   - Document major changes in the meeting notes.
   - Review and merge changes through pull requests for oversight.
+  - Practice Wolakota - ensure your contributions are respectful and do not violate Tribal protocols.
+  - Detailed information about contributing to this project can be found in the documents folder (contributing.md).
 
 ## Getting Help
 - If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly.
@@ -65,9 +67,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - **Document Your Data**: Include a data directory with README files for datasets.
 - **Outline Your Methods**: Create a METHODS.md file for methodologies and tools.
 - **Set Up Project Management**: Use 'Issues' and 'Projects' for task tracking.
-- **Add a License**: Include an appropriate open-source license.
-- **Create Contribution Guidelines**: Establish a CONTRIBUTING.md file.
 - **Review and Merge Workflow**: Document your process for reviewing and merging changes.
 - **Establish Communication Channels**: Set up channels like Slack or Discord for discussions.
 
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!
+
