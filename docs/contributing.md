@@ -1,6 +1,6 @@
 # Contributing to Maka Sitomniya 
 
-Welcome to Maka Sitomniya! 🎉 We’re excited to have you contribute. Whether you're a coder, writer, designer, group member or researcher, your help is appreciated.
+Welcome to Maka Sitomniya! We’re excited to have you contribute. Whether you're a coder, writer, designer, group member or researcher, your help is appreciated.
 
 ## 📌 How to Contribute
 You can contribute in several ways:
