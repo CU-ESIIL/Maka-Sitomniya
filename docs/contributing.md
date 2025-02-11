@@ -75,7 +75,9 @@ If you're improving documentation:
    - On GitHub, open a Pull Request to submit your changes.
 
 🔄 Handling Merge Conflicts
-Merge conflicts happen when two people edit the same part of a file. Here’s how to fix them:
+>Merge conflicts happen when two people edit the same part of a file.
+>Here’s how to fix them:
+
 1. Identify the Conflict
    - If you see an error like this when pulling changes:
    - CONFLICT (content): Merge conflict in file.txt
@@ -98,7 +100,7 @@ The file will contain markers like this:
 If you need help, feel free to ask in GitHub Discussions or in our project Slack.
 
 💡 Need Help?
-If you’re new to GitHub or have a question about how to do something:
+>If you’re new to GitHub or have a question about how to do something:
    - Check out GitHub Docs.
    - Ask questions in GitHub Discussions
    - Ask questions in our project Slack
