@@ -21,6 +21,10 @@ Data cubes let scientists analyze and summarize data in many ways. For example:
 Example of a Data Cube
 Let’s look at a simple example of a data cube used for studying land:
 
+| Location (Grid Cell)|	Month	| NDVI (Plant Greenness) | Temperature (°C) |
+-------------------------------------------------------------------------
+|    1, 1	            |  Jan	 |       0.72	           |      23.5        | 
+|    1, 1	            |  Feb	 |       0.68	           |      24.0        |
 
 Dimensions in this Example:
 •	Space: The grid cell (a small square on a map).
