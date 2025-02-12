@@ -16,6 +16,7 @@ Each tiny "cell" in the cube holds a specific piece of data based on the dimensi
 
 3. Goes Beyond Three Dimensions
 Even though it's called a "cube," it doesn’t stop at three dimensions. Scientists can add more dimensions, like the type of satellite or the kind of land (forest, grassland, etc.). These multi-dimensional cubes are sometimes called hypercubes. They help Earth scientists combine data from lots of sources.
+
 4. Analyze and Combine Data
 Data cubes let scientists analyze and summarize data in many ways. For example:
 - Over Space: Find the average temperature for a whole country in one year.
@@ -27,8 +28,8 @@ Let’s look at a simple example of a data cube used for studying land:
 
 | Location (Grid Cell)|	Month	| NDVI (Plant Greenness) | Temperature (°C) |
 ----------------------------------------------------------------------------
-|    1, 1	          |  Jan	 |       0.72	           |      23.5        | 
-|    1, 1	          |  Feb	 |       0.68	           |      24.0        |
+|    1, 1	      |  Jan	 |       0.72	           |      23.5        | 
+|    1, 1	      |  Feb	 |       0.68	           |      24.0        |
 
 Dimensions in this Example:
 - Space: The grid cell (a small square on a map).
