@@ -24,20 +24,20 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 [List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
 
-- **Member 1**: PI: Phil Two Eagle 
-- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder 
-- **Member 3**: Technical Lead: Lilly Jones-Sanovia 
+- **Member 1**: PI: Phil Two Eagle, Executive Director, Sicangu Climate Center 
+- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder, [Oglala Lakota College](https://www.olc.edu)
+- **Member 3**: Technical Lead: Lilly Jones-Sanovia, CIRES Earth Lab, CU Boulder
 - **Member 4**: Robin O'Malley 
-- **Member 5**: Justina White Eyes 
+- **Member 5**: Justina White Eyes, [Native BioData Consortium](https://nativebio.org)  
 - **Member 6**: Robert Newman 
 - **Member 7**: Al Kusilikis 
-- **Member 8**: Jeff Weber 
-- **Member 9**: Joseph Yracheta 
-- **Member 10**: Camille Griffith 
-- **Member 11**: Brian Yandell 
-- **Member 12**: James Rattling Leaf 
+- **Member 8**: Jeff Weber, National Center for Atomospheric Research 
+- **Member 9**: Joseph Yracheta, [Native BioData Consortium](https://nativebio.org) 
+- **Member 10**: Camille Griffith, [Oglala Lakota College](https://www.olc.edu)
+- **Member 11**: Brian Yandell, Professor Emeritus
+- **Member 12**: James Rattling Leaf, CIRES, CU Boulder 
 - **Member 13**: Robert Michell Rabin 
-- **Member 14**: James Sanovia
+- **Member 14**: James Sanovia, CIRES ESIIL Lab, CU Boulder
 - **Member 15**: Patrick Freeland
 
   
@@ -60,31 +60,12 @@ We welcome contributions from all group members. To maintain the quality and int
 - Make sure all commits have a clear and concise message.
 - Document any major changes or decisions in the meeting notes.
 - Review and merge changes through pull requests to ensure oversight.
+- Practice Wolakota - be respectful, and follow Tribal protocols to the best of your ability.
 - More details can be found in the **contributing** file. 
 
 ## Getting Help
 
 If you encounter any issues or have questions about how to contribute, please refer to the [ESIIL Support Page](https://esiil.org/support) or contact the repository maintainers directly.
 
-## Customize Your Repository
 
-As a new working group, you'll want to make this repository your own. Here's how to get started:
-
-1. **Edit This Readme**: Replace the placeholder content with information about your specific project. Ensure that the introduction, project overview, and objectives clearly reflect your group's research focus.
-
-2. **Update Group Member Bios**: Add details about each group member's expertise, role in the project, and professional background. Include links to personal or professional web pages to foster community engagement and collaboration.
-
-3. **Organize Your Code**: Structure your codebase in a way that is logical and accessible. Use directories and clear naming conventions to make it easy for all members to find and contribute to different parts of the project.
-
-4. **Document Your Data**: Include a data directory with README files explaining the datasets, sources, and any preprocessing steps. This will help new members understand and work with the project's data effectively.
-
-5. **Outline Your Methods**: Create a detailed METHODS.md file where you describe the methodologies, software, and tools you will be using in your research. This transparency will support reproducibility and collaborative development.
-
-6. **Set Up Project Management**: Utilize the 'Issues' and 'Projects' features on GitHub to track tasks, discuss ideas, and manage your workflow. This can help in maintaining a clear view of progress and priorities.
-
-9. **Review and Merge Workflow**: Decide on a workflow for reviewing and merging changes. Will you use branch protection? Who will have merge privileges? Document this process to avoid confusion.
-
-10. **Establish Communication Channels**: Beyond GitHub, set up additional communication channels like Slack, Discord, or email lists for quick and informal discussions.
-
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!
 
