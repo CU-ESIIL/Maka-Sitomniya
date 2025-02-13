@@ -24,21 +24,22 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 [List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
 
-- **Member 1**: PI: Phil Two Eagle, Executive Director, Sicangu Climate Center 
+- **Member 1**: PI: Phil Two Eagle, Executive Director, [Sicangu Climate Center](https://sicangudata.org) 
 - **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder, [Oglala Lakota College](https://www.olc.edu)
-- **Member 3**: Technical Lead: Lilly Jones-Sanovia, CIRES Earth Lab, CU Boulder
+- **Member 3**: Technical Lead: Lilly Jones-Sanovia, [CIRES Earth Lab, CU Boulder](https://earthlab.colorado.edu)
 - **Member 4**: Robin O'Malley 
 - **Member 5**: Justina White Eyes, [Native BioData Consortium](https://nativebio.org)  
 - **Member 6**: Robert Newman 
 - **Member 7**: Al Kusilikis 
-- **Member 8**: Jeff Weber, National Center for Atomospheric Research 
+- **Member 8**: Jeff Weber, Scientific Program Manager, [National Center for Atomospheric Research](https://ncar.ucar.edu) 
 - **Member 9**: Joseph Yracheta, [Native BioData Consortium](https://nativebio.org) 
 - **Member 10**: Camille Griffith, [Oglala Lakota College](https://www.olc.edu)
-- **Member 11**: Brian Yandell, Professor Emeritus
-- **Member 12**: James Rattling Leaf, CIRES, CU Boulder 
+- **Member 11**: Brian Yandell, Data Scientist, Professor Emeritus
+- **Member 12**: James Rattling Leaf, Tribal Advisor, [CIRES, CU Boulder](https://cires.colorado.edu/people/james-rattling-leaf) 
 - **Member 13**: Robert Michell Rabin 
-- **Member 14**: James Sanovia, CIRES ESIIL Lab, CU Boulder
-- **Member 15**: Patrick Freeland
+- **Member 14**: James Sanovia, Tribal Data Scientist [CIRES ESIIL Lab, CU Boulder](https://esiil.org)
+- **Member 15**: Patrick Freeland, Senior Tribal Climate Resilience Liaison, [Affiliated Tribes of Northwest Indians](https://atnitribes.org/about/our-staff/)
+- **Member 16**: Paula Antoine
 
   
 ## Code Repository
