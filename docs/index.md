@@ -18,30 +18,30 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 ## Project Proposal
 
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+[include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+[Project Proposal](https://esiil.org/working-groups)
 
 ## Group Members
 
 [List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
 
 - **Member 1**: PI: Phil Two Eagle, Executive Director, [Sicangu Climate Center](https://sicangudata.org) 
-- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder, [Oglala Lakota College](https://www.olc.edu)
-- **Member 3**: Technical Lead: Lilly Jones-Sanovia, [CIRES Earth Lab, CU Boulder](https://earthlab.colorado.edu)
-- **Member 4**: Robin O'Malley 
+- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder, Adjunct Faculty, [Oglala Lakota College](https://www.olc.edu)
+- **Member 3**: Technical Lead: Lilly Jones, PhD [CIRES Earth Lab, CU Boulder](https://earthlab.colorado.edu)
+- **Member 4**: Robin O'Malley, Principal at [Robin O'Malley LLC](https://www.robinomalleyllc.com)  
 - **Member 5**: Justina White Eyes, [Native BioData Consortium](https://nativebio.org)  
-- **Member 6**: Robert Newman 
-- **Member 7**: Al Kusilikis 
+- **Member 6**: Robert Newman, PhD, Professor of Biology, [University of North Dakota](https://campus.und.edu/directory/robert.newman)
+- **Member 7**: Al Kusilikis, Senior Associate for Strategic Initiatives (retired), [American Indian Higher Education Consortium](https://www.linkedin.com/in/al-kuslikis-aa16374b/)
 - **Member 8**: Jeff Weber, Scientific Program Manager, [National Center for Atomospheric Research](https://ncar.ucar.edu) 
 - **Member 9**: Joseph Yracheta, [Native BioData Consortium](https://nativebio.org) 
-- **Member 10**: Camille Griffith, [Oglala Lakota College](https://www.olc.edu)
-- **Member 11**: Brian Yandell, Data Scientist, Professor Emeritus
+- **Member 10**: Camille Griffith, PhD, Faculty [Oglala Lakota College](https://www.olc.edu)
+- **Member 11**: Brian Yandell, PhD, Data Scientist, Professor Emeritus, [University of Wisconsin-Madison](https://byandell.github.io)
 - **Member 12**: James Rattling Leaf, Tribal Advisor, [CIRES, CU Boulder](https://cires.colorado.edu/people/james-rattling-leaf) 
-- **Member 13**: Robert Michell Rabin 
+- **Member 13**: Robert Michell Rabin, PhD, Research Meteorologist, [NOAA/National Severe Storms Laboratory](https://www.cira.colostate.edu/staff/rabin-robert-m/) 
 - **Member 14**: James Sanovia, Tribal Data Scientist [CIRES ESIIL Lab, CU Boulder](https://esiil.org)
 - **Member 15**: Patrick Freeland, Senior Tribal Climate Resilience Liaison, [Affiliated Tribes of Northwest Indians](https://atnitribes.org/about/our-staff/)
-- **Member 16**: Paula Antoine
+- **Member 16**: Paula Antoine, Program Coordinator at [Rosebud Sioux Tribe-Sicangu Oyate Land Office](https://www.rosebudsiouxtribe-nsn.gov/rstland)
 
-  
 ## Code Repository
 
 This section of the repository will include all the code developed for the project. You can structure it as follows:
