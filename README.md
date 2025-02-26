@@ -41,11 +41,6 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 16: Paula Antoine
 - Member 17: Cassie Buhler
 
-## Repository Structure
-- **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Data Processing**: Scripts for cleaning, merging, and managing datasets.
-- **Visualization**: Code for creating figures, charts, and interactive visualizations.
-
 ## Meeting Notes and Agendas
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
 
