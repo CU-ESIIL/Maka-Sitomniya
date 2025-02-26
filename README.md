@@ -48,24 +48,4 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 ## Meeting Notes and Agendas
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
 
-## Contributing to This Repository
-- Contributions from all group members are welcome.
-- Please adhere to these guidelines:
-  - Ensure commits have clear and concise messages.
-  - Document major changes in the meeting notes.
-  - Review and merge changes through pull requests for oversight.
-  - Practice Wolakota - ensure your contributions are respectful and follow Tribal protocols.
-  - Detailed information about contributing to this project can be found in the documents folder (contributing.md).
-
-## Getting Help
-- If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly.
-
-## Customize Your Repository
-- **Edit This Readme**: Update with information specific to your project.
-- **Update Group Member Bios**: Add detailed information about each group member's expertise and role.
-- **Document Your Data**: Include a data directory with README files for datasets.
-- **Outline Your Methods**: Create a METHODS.md file for methodologies and tools.
-- **Set Up Project Management**: Use 'Issues' and 'Projects' for task tracking.
-
-
 
