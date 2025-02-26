@@ -18,12 +18,9 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 ## Project Proposal
 
-[include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
 [Project Proposal](https://esiil.org/working-groups)
 
 ## Group Members
-
-[List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
 
 - **Member 1**: PI: Phil Two Eagle, Executive Director, [Sicangu Climate Center](https://sicangudata.org) 
 - **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder, Adjunct Faculty, [Oglala Lakota College](https://www.olc.edu)
@@ -41,7 +38,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - **Member 14**: James Sanovia, Tribal Data Scientist [CIRES ESIIL Lab, CU Boulder](https://esiil.org)
 - **Member 15**: Patrick Freeland, Senior Tribal Climate Resilience Liaison, [Affiliated Tribes of Northwest Indians](https://atnitribes.org/about/our-staff/)
 - **Member 16**: Paula Antoine, Program Coordinator at [Rosebud Sioux Tribe-Sicangu Oyate Land Office](https://www.rosebudsiouxtribe-nsn.gov/rstland)
--  **Member 17**: Cassie Buhler, ESIIL Postdoctoral Associate [ESIIL, CU Boulder](https://cassiebuhler.github.io/)
+-  **Member 17**: Cassie Buhler, ESIIL Postdoctoral Associate, [ESIIL, CU Boulder](https://cassiebuhler.github.io/)
 
 ## Code Repository
 
@@ -54,20 +51,6 @@ This section of the repository will include all the code developed for the proje
 ## Meeting Notes and Agendas
 
 Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.
-
-## Contributing to This Repository
-
-We welcome contributions from all group members. To maintain the quality and integrity of the repository, please adhere to the following guidelines:
-
-- Make sure all commits have a clear and concise message.
-- Document any major changes or decisions in the meeting notes.
-- Review and merge changes through pull requests to ensure oversight.
-- Practice Wolakota - be respectful, and follow Tribal protocols to the best of your ability.
-- More details can be found in the **contributing** file. 
-
-## Getting Help
-
-If you encounter any issues or have questions about how to contribute, please refer to the [ESIIL Support Page](https://esiil.org/support) or contact the repository maintainers directly.
 
 
 
