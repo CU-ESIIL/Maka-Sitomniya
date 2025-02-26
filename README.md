@@ -38,7 +38,8 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 13: Robert Michell Rabin
 - Member 14: James Sanovia
 - Member 15: Patrick Freeland
-- Member 16: Cassie Buhler
+- Member 16: Paula Antoine
+- Member 17: Cassie Buhler
 
 ## Repository Structure
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
