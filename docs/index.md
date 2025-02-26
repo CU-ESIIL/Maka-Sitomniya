@@ -38,7 +38,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - **Member 14**: James Sanovia, Tribal Data Scientist [CIRES ESIIL Lab, CU Boulder](https://esiil.org)
 - **Member 15**: Patrick Freeland, Senior Tribal Climate Resilience Liaison, [Affiliated Tribes of Northwest Indians](https://atnitribes.org/about/our-staff/)
 - **Member 16**: Paula Antoine, Program Coordinator at [Rosebud Sioux Tribe-Sicangu Oyate Land Office](https://www.rosebudsiouxtribe-nsn.gov/rstland)
--  **Member 17**: Cassie Buhler, ESIIL Postdoctoral Associate, [ESIIL, CU Boulder](https://cassiebuhler.github.io/)
+-  **Member 17**: Cassie Buhler, PhD, Postdoctoral Associate, [ESIIL, CU Boulder](https://cassiebuhler.github.io/)
 
 ## Code Repository
 
