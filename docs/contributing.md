@@ -2,7 +2,7 @@
 
 Welcome to Maka Sitomniya! We’re excited to have you contribute. Whether you're a coder, instructor, group member or researcher, your help is appreciated.
 
-## 📌 How to Contribute
+## How to Contribute
 You can contribute in several ways:
 - **Report Issues** (Bugs, Feature Requests, Documentation)
 - **Suggest Enhancements**
@@ -10,7 +10,7 @@ You can contribute in several ways:
 - **Improve Documentation**
 - **Help Review Pull Requests**
 
-## 📝 Submitting Issues
+## Submitting Issues
 If you find a bug or have a suggestion, submit an issue:
 1. Go to the **"Issues"** tab.
 2. Click **"New Issue."**
@@ -21,7 +21,7 @@ If you find a bug or have a suggestion, submit an issue:
 
 Please be respectful, follow principles of Wolakota, and check existing issues before opening a new one.
 
-## 🔧 Making Code Changes
+## Making Code Changes
 ### **1. Fork & Clone the Repository**
 1. Click the **"Fork"** button at the top-right of the repository.
 2. Clone your fork to your local machine:
@@ -49,13 +49,13 @@ Please be respectful, follow principles of Wolakota, and check existing issues b
    - Suggest improvements, but respect different perspectives.
    - Merge changes only after they pass reviews and tests.
 
-📚 Documentation Contributions
+Documentation Contributions
 If you're improving documentation:
    - Follow Markdown formatting.
    - Add clear examples/screenshots.
    - Keep it simple and beginner-friendly.
 
-🖥️ Using GitHub Desktop (For Non-Technical Users)
+Using GitHub Desktop (For Non-Technical Users)
 >GitHub Desktop makes it easier to contribute without using the command line.
 1. Install GitHub Desktop
    - Download it from GitHub Desktop.
@@ -74,7 +74,7 @@ If you're improving documentation:
    - Click "Push origin" to upload your changes.
    - On GitHub, open a Pull Request to submit your changes.
 
-🔄 Handling Merge Conflicts
+Handling Merge Conflicts
 >Merge conflicts happen when two people edit the same part of a file.
 >Here’s how to fix them:
 
@@ -99,7 +99,7 @@ The file will contain markers like this:
    - git push origin your-branch
 If you need help, feel free to ask in GitHub Discussions or in our project Slack.
 
-💡 Need Help?
+Need Help?
 >If you’re new to GitHub or have a question about how to do something:
    - Check out GitHub Docs.
    - Ask questions in GitHub Discussions
