@@ -44,5 +44,6 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.
 
-
+## Questions? 
+If you have questions about this project, please contact [Jim Sanovia](jasa@colorado.edu)
 
