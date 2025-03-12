@@ -42,7 +42,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 ## Meeting Notes and Agendas
 
-Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.
+Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project. Notes from our first in-person meeting can be downloaded here: [Meeting Notes 0724](https://github.com/CU-ESIIL/Maka-Sitomniya/blob/main/docs/Summary%20In%20person%20meeting%20notes%200724.docx).
 
 ## Questions? 
 If you have questions about this project, please contact [Jim Sanovia](mailto:James.Sanovia@colorado.edu)
