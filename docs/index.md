@@ -39,6 +39,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - **Member 15**: Patrick Freeland, Senior Tribal Climate Resilience Liaison, [Affiliated Tribes of Northwest Indians](https://atnitribes.org/about/our-staff/)
 - **Member 16**: Paula Antoine, Program Coordinator at [Rosebud Sioux Tribe-Sicangu Oyate Land Office](https://www.rosebudsiouxtribe-nsn.gov/rstland)
 - **Member 17**: Cassie Buhler, PhD, Postdoctoral Associate, [ESIIL, CU Boulder](https://cassiebuhler.github.io/)
+- **Member 18**: Mason Grimshaw, Data Scientist, Ode [Ode](https://ode.partners/en/team)
 
 ## Meeting Notes and Agendas
 
