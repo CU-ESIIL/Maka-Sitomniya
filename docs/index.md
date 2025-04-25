@@ -40,6 +40,8 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - **Member 16**: Paula Antoine, Program Coordinator at [Rosebud Sioux Tribe-Sicangu Oyate Land Office](https://www.rosebudsiouxtribe-nsn.gov/rstland)
 - **Member 17**: Cassie Buhler, PhD, Postdoctoral Associate, [ESIIL, CU Boulder](https://cassiebuhler.github.io/)
 - **Member 18**: Mason Grimshaw, Data Scientist, [Ode](https://ode.partners/en/team)
+- **Member 19**: Frank Gangone, CEO [Knife Horse Technologies](https://www.linkedin.com/in/frank-gangone-90920238/). 
+- **Member 20**: Sarah Yandell, [Student](https://www.linkedin.com/in/yandell-sarah/)
 
 ## Meeting Notes and Agendas
 
