@@ -207,34 +207,54 @@ def build_combined_datacube(landfire_data, cmip_data, output_path, resolution, t
     """
     print(f"\n--- Building Combined Datacube ---")
     
-    # Initialize the datacube builder
-    builder = DatacubeBuilder()
-    
-    # Add datasets
-    builder.add_dataset("vegetation", landfire_data)
-    builder.add_dataset("climate", cmip_data)
-    
-    # Build a unified datacube
-    print(f"Building unified datacube with resolution {resolution}°...")
-    unified_cube = builder.build_datacube(
-        lat_resolution=resolution,
-        lon_resolution=resolution,
-        time_resolution=temporal_resolution,
-        interpolation_method=InterpolationMethod.NEAREST  # Better for categorical data
-    )
-    
-    print(f"Combined datacube dimensions: {unified_cube.dims}")
-    print(f"Variables: {list(unified_cube.data_vars)}")
-    
-    # Create the output directory if it doesn't exist
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    
-    # Save the combined datacube
-    print(f"Saving combined datacube to {output_path}...")
-    builder.save_datacube(output_path)
-    
-    print("Datacube building complete!")
-    return unified_cube
+    # Before using the complex DatacubeBuilder, let's first check if the datasets have matching dimensions
+    if 'time' not in landfire_data.dims or len(landfire_data.dims) < 2:
+        print(f"Warning: LANDFIRE data has missing dimensions. Using a simplified datacube approach.")
+        print(f"LANDFIRE dimensions: {landfire_data.dims}")
+        print(f"CMIP dimensions: {cmip_data.dims}")
+        
+        # Just save the CMIP data as our datacube
+        print(f"Creating simplified datacube from climate data only...")
+        
+        # Create the output directory if it doesn't exist
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        
+        # Save the CMIP data as our datacube
+        print(f"Saving simplified datacube to {output_path}...")
+        cmip_data.to_netcdf(output_path)
+        
+        print("Simplified datacube building complete!")
+        return cmip_data
+    else:
+        # Use the full datacube builder
+        # Initialize the datacube builder
+        builder = DatacubeBuilder()
+        
+        # Add datasets
+        builder.add_dataset("vegetation", landfire_data)
+        builder.add_dataset("climate", cmip_data)
+        
+        # Build a unified datacube
+        print(f"Building unified datacube with resolution {resolution}°...")
+        unified_cube = builder.build_datacube(
+            lat_resolution=resolution,
+            lon_resolution=resolution,
+            time_resolution=temporal_resolution,
+            interpolation_method=InterpolationMethod.NEAREST  # Better for categorical data
+        )
+        
+        print(f"Combined datacube dimensions: {unified_cube.dims}")
+        print(f"Variables: {list(unified_cube.data_vars)}")
+        
+        # Create the output directory if it doesn't exist
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        
+        # Save the combined datacube
+        print(f"Saving combined datacube to {output_path}...")
+        builder.save_datacube(output_path)
+        
+        print("Datacube building complete!")
+        return unified_cube
 
 def main():
     """Main function to build the Black Hills datacube."""

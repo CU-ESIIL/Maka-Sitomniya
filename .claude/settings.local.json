@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(conda:*)",
+      "Bash(python -m pytest -xvs scripts/test_cmip_processor.py)",
+      "Bash(python3 -m pip install:*)",
+      "Bash(python -m pytest -xvs scripts/test_datacube_builder.py)",
+      "Bash(python -m pytest -xvs scripts/)",
+      "Bash(python -m pytest --cov=scripts scripts/)",
+      "Bash(python -m pytest --cov=scripts --cov-report=term-missing scripts/)",
+      "WebFetch(domain:www.landfire.gov)",
+      "WebFetch(domain:landfire.gov)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(pip install:*)",
+      "Bash(find:*)",
+      "Bash(git checkout:*)",
+      "Bash(git reset:*)",
+      "Bash(touch:*)"
+    ],
+    "deny": []
+  }
+}
