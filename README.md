@@ -1,6 +1,6 @@
 # Maka Sitomniya
 
-Welcome to the **Maka Sitomniya** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
+Welcome to the **Maka Sitomniya** repository, an integral part of the Environmental Data Science Innovation and Impact Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
 The world faces growing threats from multiple, interconnected environmental challenges, including chemical pollution, increasing freshwater demands amid diminishing supplies, biodiversity loss, and the climate crisis. Indigenous communities are particularly vulnerable due to a long history of injustice. However, a holistic worldview, long-standing relationship with the land and water, and time-tested stewardship practices provide essential knowledge for understanding and responding to these challenges. What remains lacking are the resources and technical expertise to integrate Indigenous Knowledges with the latest advancements in Earth Data Science.
