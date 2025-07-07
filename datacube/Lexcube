@@ -1,0 +1,98 @@
+# Original code by Ty Tuff, edited by Lilly Jones
+# Brian Yandell notes: https://docs.google.com/document/d/1vMUnxVc4jPBFdspWljzS842QXeOhVPonpPznL1bfIOI/edit?tab=t.0
+
+pip install cubo lexcube spyndex
+
+def visualize_ndvi():
+    import cubo
+    import spyndex
+    import lexcube
+    import osmnx as ox
+    import numpy as np
+    import rioxarray                         # register .rio
+    from shapely.ops import transform
+    from shapely.geometry import mapping
+    
+    # Get the location polygon and its centroid
+    campus_gdf = ox.geocode_to_gdf(
+        "Sinte Gleska University, Mission, South Dakota, USA"
+    )    
+    campus_gdf = campus_gdf.to_crs("EPSG:4326")
+    campus_geom = campus_gdf.geometry.iloc[0]
+    centroid = campus_geom.centroid
+    lat0, lon0 = centroid.y, centroid.x
+    
+    # Load a small Sentinel-2 tile around campus (≈5 km square at 10 m)
+    print("Loading Sentinel-2 around campus…")
+    
+    # Create my receiving cube, adjusting lat, long, bands, ...
+    cube = cubo.create(
+        lat=lat0, lon=lon0,
+        collection="sentinel-2-l2a",
+        bands=["B04","B08"],
+        start_date="2022-01-01", end_date="2022-12-31",
+        edge_size=512,     # 512 px × 10 m ≈ 5.1 km
+        resolution=10,
+        query={"eo:cloud_cover": {"lt": 20}}
+    )
+    
+    # Project to CRS 4326 (WGS84).
+    cube = cube.rio.write_crs("EPSG:4326")
+    
+    # Compute and interpolate NDVI
+    print("Computing and interpolating NDVI…")
+    
+    # Creates a false color infrared composite, with vegetation appearing red
+    ndvi = spyndex.computeIndex(
+        index="NDVI",
+        params={"N": cube.sel(band="B08"), #NIR
+                "R": cube.sel(band="B04"), #red band
+                "L": 0.5}
+    )
+    _, idx = np.unique(ndvi.time, return_index=True)
+    
+    # Spread NDVI over range via interpolation.
+    # This could be a more complicated data harmonization step.
+    ndvi = ndvi.isel(time=idx).chunk({"time": -1})
+    ndvi_interp = ndvi.interpolate_na(
+        dim="time", method="linear", fill_value="extrapolate"
+    )
+    
+    # Project campus boundary into pixel space.
+    print("Projecting campus boundary…")
+    
+    # Project back into raw pixel space.
+    # Some code concerns pixel space points, circles, lines.
+    inv_affine = ~cube.rio.transform()
+    def world2pix(x, y, z=None):
+        return tuple(inv_affine * (x, y))
+    campus_pix = transform(world2pix, campus_geom)
+    
+    # Build GeoJSON overlay.
+    # WIP. Probably needs masking to work correctly.
+    overlay = {
+        "type": "FeatureCollection",
+        "features": [{
+            "type": "Feature",
+            "geometry": mapping(campus_pix),
+            "properties": {}
+        }]
+    }
+    
+    # Render in Lexcube with a thick red line
+    """Good stuff: plots using Cube3D Widget.
+       Runs locally on your computer.
+       Use Cyverse to bring in big data, but this is your
+       local window visualization.
+    """
+    print("Rendering Lexcube view…")
+    w = lexcube.Cube3DWidget(
+        ndvi_interp,
+        cmap="YlGn", vmin=0, vmax=1,
+        overlaid_geojson=overlay,
+        overlaid_geojson_color="red",
+        overlaid_geojson_linewidth=3.0
+    )
+    return w.plot()
+
+visualize_ndvi()
