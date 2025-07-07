@@ -33,7 +33,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 8: Jeff Weber
 - Member 9: Joseph Yracheta
 - Member 10: Camille Griffith
-- Member 11: Brian Yandell
+- Member 11: [Brian Yandell](https://byandell.github.io)
 - Member 12: James Rattling Leaf
 - Member 13: Robert Michell Rabin
 - Member 14: James Sanovia
@@ -42,6 +42,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 17: Cassie Buhler
 - Member 18: Mason Grimshaw
 - Member 19: Sarah Yandell
+- Member 20: Alicia Swimmer
 
 ## Meeting Notes and Agendas
 - Notes from our first in-person meeting can be downloaded here: [Meeting Notes 0724](https://github.com/CU-ESIIL/Maka-Sitomniya/blob/main/docs/Summary%20In%20person%20meeting%20notes%200724.docx).
