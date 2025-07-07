@@ -39,7 +39,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 14: James Sanovia
 - Member 15: [Patrick Freeland](https://www.linkedin.com/in/patrickfreeland/)
 - Member 16: Paula Antoine
-- Member 17: Cassie Buhler
+- Member 17: [Cassie Buhler](https://cassiebuhler.github.io/)
 - Member 18: Mason Grimshaw
 - Member 19: Sarah Yandell
 - Member 20: Alicia Swimmer
