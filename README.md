@@ -33,7 +33,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 8: Jeff Weber
 - Member 9: Joseph Yracheta
 - Member 10: Camille Griffith
-- Member 11: [Brian Yandell](https://byandell.github.io)
+- Member 11: [Brian S Yandell](https://byandell.github.io)
 - Member 12: James Rattling Leaf
 - Member 13: Robert Michell Rabin
 - Member 14: James Sanovia
