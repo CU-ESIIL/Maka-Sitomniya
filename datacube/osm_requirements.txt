@@ -1,0 +1,2 @@
+# Requirements for OSM data gathering script
+requests>=2.26.0
