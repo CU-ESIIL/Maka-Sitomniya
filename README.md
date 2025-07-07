@@ -37,7 +37,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 12: James Rattling Leaf
 - Member 13: Robert Michell Rabin
 - Member 14: James Sanovia
-- Member 15: Patrick Freeland
+- Member 15: [Patrick Freeland](https://www.linkedin.com/in/patrickfreeland/)
 - Member 16: Paula Antoine
 - Member 17: Cassie Buhler
 - Member 18: Mason Grimshaw
