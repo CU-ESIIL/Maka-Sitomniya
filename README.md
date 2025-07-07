@@ -28,7 +28,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 3: Technical Lead: Lilly Jones-Sanovia
 - Member 4: Robin O'Malley
 - Member 5: Justina White Eyes
-- Member 6: Robert Newman
+- Member 6: [Robert Newman](https://robert.newman.github.io)
 - Member 7: Al Kusilikis
 - Member 8: Jeff Weber
 - Member 9: Joseph Yracheta
