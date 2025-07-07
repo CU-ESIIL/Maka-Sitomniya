@@ -39,10 +39,11 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 14: James Sanovia
 - Member 15: [Patrick Freeland](https://www.linkedin.com/in/patrickfreeland/)
 - Member 16: Paula Antoine
-- Member 17: [Cassie Buhler](https://cassiebuhler.github.io/)
+- Member 17: Cassie Buhler
 - Member 18: Mason Grimshaw
 - Member 19: Sarah Yandell
 - Member 20: Alicia Swimmer
+- Member 21: Frank Gangone https://github.com/dtek2k
 
 ## Meeting Notes and Agendas
 - Notes from our first in-person meeting can be downloaded here: [Meeting Notes 0724](https://github.com/CU-ESIIL/Maka-Sitomniya/blob/main/docs/Summary%20In%20person%20meeting%20notes%200724.docx).
