@@ -35,7 +35,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - Member 10: Camille Griffith
 - Member 11: [Brian S Yandell](https://byandell.github.io)
 - Member 12: James Rattling Leaf
-- Member 13: [Robert Michell Rabin](https://meteoralert.github.io)
+- Member 13: [Robert Michell Rabin](https://meteoralert.github.io/mywebsite)
 - Member 14: James Sanovia
 - Member 15: [Patrick Freeland](https://www.linkedin.com/in/patrickfreeland/)
 - Member 16: Paula Antoine
