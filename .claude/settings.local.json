@@ -18,7 +18,8 @@
       "Bash(find:*)",
       "Bash(git checkout:*)",
       "Bash(git reset:*)",
-      "Bash(touch:*)"
+      "Bash(touch:*)",
+      "Bash(grep:*)"
     ],
     "deny": []
   }
