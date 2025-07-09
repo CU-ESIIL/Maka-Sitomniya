@@ -18,7 +18,8 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 ## Project Proposal
 
-[Project Proposal](https://esiil.org/working-groups)
+[Project Proposal](https://docs.google.com/document/d/1Zyn74ojGFBTSYp8-2dNQ1ouPXgdZeUnC/edit)
+
 
 ## Group Members
 
