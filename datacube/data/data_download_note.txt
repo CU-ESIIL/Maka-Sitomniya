@@ -1,0 +1,3 @@
+In general, we don't want to keep data on Github.
+
+To get around this, we'll host the data on Cyverse at a link to come.

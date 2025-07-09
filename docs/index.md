@@ -18,7 +18,8 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 ## Project Proposal
 
-[Project Proposal](https://esiil.org/working-groups)
+[Project Proposal](https://docs.google.com/document/d/1Zyn74ojGFBTSYp8-2dNQ1ouPXgdZeUnC/edit)
+
 
 ## Group Members
 
@@ -42,6 +43,7 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 - **Member 18**: Mason Grimshaw, Data Scientist, [Ode](https://ode.partners/en/team)
 - **Member 19**: Frank Gangone, CEO [Knife Horse Technologies](https://www.linkedin.com/in/frank-gangone-90920238/). 
 - **Member 20**: Sarah Yandell, [Student](https://www.linkedin.com/in/yandell-sarah/)
+- **Member 21**: Alicia Swimmer, [Rosebud Sioux Tribe-Zuya Tawa](https://www.linkedin.com/in/aliciaswimmer/)
 
 ## Meeting Notes and Agendas
 
