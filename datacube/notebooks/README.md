@@ -8,10 +8,8 @@ Several of these Jupyter notebooks are being added to the
 [ESIIL Data Library](https://data-library.esiil.org)
 via the GitHub `docs` folder
 [CU-ESIIL/data-library/docs](https://github.com/CU-ESIIL/data-library/tree/main/docs).
-At present, these are in a fork
-[cassiebuhler/data-library/docs/maka-sitomniya](https://github.com/cassiebuhler/data-library/tree/main/docs/maka-sitomniya).
-
-These are being added using the following steps for, say, file `NLCD.ipynb`.
+To illustrate, we use file `NLCD.ipynb` and the forked repo
+[cassiebuhler/data-library/](https://github.com/cassiebuhler/data-library).
 
 - Fork the repo `CU-ESIIL/data-library` to
 [cassiebuhler/data-library](https://github.com/cassiebuhler/data-library)
