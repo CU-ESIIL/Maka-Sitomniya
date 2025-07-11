@@ -36,3 +36,9 @@ file with a new entry that links the file
 ```
 
 - Once all files are completed, send pull request to `CU-ESIIL/data-library`.
+
+## Adding Code to create exportable objects
+
+We discussed adding code to export `xarray`, `geoTIFF` or other formatted objects 
+from one datacube script to be useable in other scripts.
+To be done.
