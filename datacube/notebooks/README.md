@@ -48,6 +48,7 @@ To be done.
 The scripts can be combined in a variety of ways:
 
 - create a notebook that uses objects from these notebooks
+  - stream together multiple notebooks to build layers of datacube
   - will need to `reproject` to align `xarray` objects, for instance
 - extract code segments from notebooks and create functions
   - put these functions in `myfunc.py` files
