@@ -42,3 +42,13 @@ file with a new entry that links the file
 We discussed adding code to export `xarray`, `geoTIFF` or other formatted objects 
 from one datacube script to be useable in other scripts.
 To be done.
+
+## Combining scripts to build more complicated datacubes
+
+The scripts can be combined in a variety of ways:
+
+- create a notebook that uses objects from these notebooks
+  - will need to `reproject` to align `xarray` objects, for instance
+- extract code segments from notebooks and create functions
+  - put these functions in `myfunc.py` files
+  - organize these `*.py` files into an applied package  
