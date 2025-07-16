@@ -23,6 +23,7 @@ datacube/
 │   ├── maca_data_exploration.ipynb    # Climate data analysis
 │   ├── NLCD.ipynb                     # National Land Cover Database
 │   └── surface_water_exploration.ipynb # Water body mapping
+|   └── nrcs_soil_exploration.ipynb    # NRCS soil exploration
 ├── scripts/                           # Data collection and processing scripts
 │   ├── find_mines.py                  # Mining feature extraction
 │   ├── gee_dynamic_world.js          # Google Earth Engine land cover
