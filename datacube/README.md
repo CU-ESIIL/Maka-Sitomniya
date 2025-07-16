@@ -115,6 +115,7 @@ data/
   - **Features**: Statistical analysis, visualization of land cover patterns
 
 - **`NLCD.ipynb`**: National Land Cover Database analysis
+- **`nrcs_soil_exploration.ipynb`**: Natural Resources Conservation Service
 
 #### Environmental Integration
 - **`landfire_exploration.ipynb`**: LANDFIRE vegetation analysis
@@ -147,6 +148,7 @@ data/
 - **OpenStreetMap**: Infrastructure and geographic features
 - **LANDFIRE**: Vegetation and fuel data for fire analysis
 - **NLCD**: National Land Cover Database
+- **NRCS**: Natural Resources Conservation Service
 
 ## Key Features
 
