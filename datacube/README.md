@@ -186,6 +186,27 @@ data/
    - Access the CyVerse data repository (link to be provided)
    - Download datasets to the `data/` directory
    - Maintain the expected directory structure
+  
+### CyVerse Use
+
+Tentative steps to enable use of datacube scripts on a CyVerse session.
+Based on experience of Bob Rabin.
+There is a way to pull directly from GitHub files in
+[Maka-Sitomniya/datacube/notebooks](https://github.com/CU-ESIIL/Maka-Sitomniya/tree/main/datacube/notebooks).
+
+1. Login to
+[CyVerse Discovery Environment](https://de.cyverse.org/).
+2. Launch Feature App
+[Jupyter ESIIL](https://de.cyverse.org/apps/de/faf1d268-44cc-11ed-9715-008cfa5ae621/launch).
+This takes usual CyVerse steps.
+3. Use terminal window for setup (done once for user names `USER`)
+  - Launch terminal window
+  - Create data subdirectory `home/USER/work`
+  - Create subdirectory `home/USER/work/notebooks`
+  - Copy `work/Maka-Sitomniya/datacube/notebooks` to `home/USER/work/notebooks`
+  - Install `pip` `/home/jovyan/data-store/home/USER/work/conda install pip`. See
+[pip-install](https://www.anaconda.com/docs/tools/working-with-conda/packages/pip-install).
+4. Execute `NLCD.ipynb` in Notebook.
 
 ## Quick Start
 
