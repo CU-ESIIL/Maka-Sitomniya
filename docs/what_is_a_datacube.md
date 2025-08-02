@@ -1,4 +1,5 @@
 # What is a Data Cube in Earth Science?
+Lilly Jones, PhD
 
 A data cube is a specific way to organize and store data. It's like a 3D table that helps scientists study and understand information faster and easier. In Earth Science, data cubes bring together different kinds of data, like where something is (location), when it happened (time), and what it is (type of data). This makes it easier to study how Earth systems, like weather or water, change over time. Think of a regular table in a spreadsheet. It has rows and columns, so it’s two-dimensional. A data cube adds a third dimension (and sometimes more), making it perfect for studying things with more than two dimensions like temperatures, rainfall, and satellite images.
 
