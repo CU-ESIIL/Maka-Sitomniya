@@ -24,7 +24,6 @@ Advancing EDS is not just about pushing the boundaries of science—it must also
 
 ## Group Members
 - Member 1: PI: Phil Two Eagle
-- Member 2: Co-PI: Elisha Wakinyan Zi Yellow Thunder
 - Member 3: Technical Lead: [Lilly Jones](https://github.com/lijo8146)
 - Member 4: Robin O'Malley
 - Member 5: Justina White Eyes
